@@ -1,19 +1,24 @@
-## <div align="center">Hello, I am Muzzammil, a Machine Learning Engineer!</div>  
+<div align="center">
+  <h1><b>Hello, I am Muzzammil, a Machine Learning Engineer!</b></h1>
+</div>  
+
+### *<div align="center">"I have no special talent. I am only passionately curious." — Albert Einstein</div>*  
 
 <div align="center">
 <img src="https://github.com/abdurrehman022/abdurrehman022/blob/main/gifs/onepiece1.gif" align="center" height="" width="30%" />
 <img src="https://github.com/abdurrehman022/abdurrehman022/blob/main/gifs/onepiece3.gif" align="center" height="" width="30%" />
 <img src="https://github.com/abdurrehman022/abdurrehman022/blob/main/gifs/onepiece2.webp" align="center" height="" width="30%" />
+</div>
 
-</div>  
-  
-*<div align="center">I pride myself on being a lazy but very fast learner.</div>*  
+<div align="center">
+  <h6>I love One Piece</h6>
+</div>
   
 Dedicated to crafting innovative machine learning solutions. With a strong foundation in machine learning and computer vision, I specialize in Convolutional Neural Networks (CNNs) and am actively building my portfolio through various CNN projects.
 
 Beyond my technical expertise, I bring nearly a decade of experience in UI/UX and graphic design, which enhances my ability to create intuitive and visually compelling user interfaces. In addition to my machine learning work, I'm also expanding my skill set in web development by mastering the MERN Stack and other cutting-edge technologies.  
 
-*<div align="center">"I have no special talent. I am only passionately curious." — Albert Einstein</div>*  
+### *<div align="center">I pride myself on being a lazy but very fast learner.</div>*  
 
 ## Technologies  
 ### *<div align="center">Machine Learning</div>*  
