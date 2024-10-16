@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'koasystem'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3B834C902EEA455B851F4E4AD8E5C322 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_145A6A7622254DBAA07DB9482CDF550F }}
