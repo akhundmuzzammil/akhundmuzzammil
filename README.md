@@ -64,24 +64,39 @@ Let’s build innovative solutions together!
 Feel free to reach out to me. I am always open to discussing new opportunities, collaborations, or just having a chat about technology.
 
 <div align="center">
-<a href="https://github.com/abdurrehman022" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://facebook.com/akhundmuzzammil" target="_blank">
+<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
 </a>
-<a href="https://x.com/abdurrehman022" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://twitter.com/akhundmuzzammil" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/abdurrehman022/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://instagram.com/akhundmuzzammil" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/abdurrehman022" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+<a href="https://github.com/akhundmuzzammil" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/abdurrehman022" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/akhundmuzzammil" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/abdurrehman022" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<a href="https://youtube.com/user/akhundmuzzammil" target="_blank">
+<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;" />
+</a>
+<a href="https://pinterest.com/akhundmuzzammil" target="_blank">
+<img src="https://img.shields.io/badge/pinterest-%23E60023.svg?&style=for-the-badge&logo=pinterest&logoColor=white" alt="pinterest" style="margin-bottom: 5px;" />
+</a>
+<a href="https://tiktok.com/@akhundmuzzammil" target="_blank">
+<img src="https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok" style="margin-bottom: 5px;" />
+</a>
+<a href="https://reddit.com/user/akhundmuzzammil" target="_blank">
+<img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" alt="reddit" style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@akhundmuzzammil" target="_blank">
+<img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
+</a>
+<a href="https://behance.net/akhundmuzzammil" target="_blank">
+<img src="https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white" alt="behance" style="margin-bottom: 5px;" />
+</a>
+</div>
   
 <div align="center">Let's build something amazing together!</div>  
