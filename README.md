@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><b>Hello, I am Muzzammil, a Machine Learning Engineer!</b></h1>
+  <h2><b>Hello, I am Muzzammil Abdur Rehman Akhund, a Machine Learning Engineer!</b></h2>
 </div>  
 
 ### *<div align="center">"I have no special talent. I am only passionately curious." — Albert Einstein</div>*  
@@ -14,9 +14,11 @@
   <h6>I love One Piece</h6>
 </div>
   
-Dedicated to crafting innovative machine learning solutions. With a strong foundation in machine learning and computer vision, I specialize in Convolutional Neural Networks (CNNs) and am actively building my portfolio through various CNN projects.
+I’m a Machine Learning Engineer passionate about solving real-world problems using Machine Learning and Computer Vision. My expertise lies in Convolutional Neural Networks (CNNs), and I’m actively building my portfolio through diverse projects.
 
-Beyond my technical expertise, I bring nearly a decade of experience in UI/UX and graphic design, which enhances my ability to create intuitive and visually compelling user interfaces. In addition to my machine learning work, I'm also expanding my skill set in web development by mastering the MERN Stack and other cutting-edge technologies.  
+In addition to technical proficiency, I bring nearly a decade of experience in UI/UX design, enhancing my ability to create intuitive, user-friendly interfaces. Currently, I’m expanding my skill set in Web Development, mastering the MERN Stack and other cutting-edge technologies.
+
+Let’s build innovative solutions together!
 
 ### *<div align="center">I pride myself on being a lazy but very fast learner.</div>*  
 
