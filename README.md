@@ -1,6 +1,6 @@
 <div align="center">
   <h2>I am Muzzammil Abdur Rehman Akhund <br>
-  Founder <a href="https://hoopinteractive.com" target="_blank" rel="noopener noreferrer">Hoop Interactive</a> | Full‑Stack ML/AI Developer | Crafting & Selling Ideas</h2>
+  ML/AI Engineer | Full-Stack Developer | Python, LLMs, Next.js, FastAPI | Cloud & DevOps</h2>
 </div>
 
 ### *<div align="center">"I have no special talent. I am only passionately curious." — Albert Einstein</div>*  
@@ -15,11 +15,13 @@
   <h6>I love One Piece</h6>
 </div>
   
-I am a trailblazing **Full-Stack ML/AI Developer** and **digital innovator** who merges advanced AI/ML technologies, full-stack development, and strategic business acumen to build intelligent solutions. As the **Founder/CEO of Hoop Interactive**, I have led the creation of a global powerhouse in **marketing, software, and social media solutions**, delivering **AI-driven applications, SaaS products, and transformative digital strategies**.  
+I am a results-driven **Full-Stack ML/AI Developer** with a strong background in building intelligent, scalable software solutions using modern web technologies and machine learning frameworks. With hands-on experience in **Python, JavaScript, Next.js, MERN stack**, and **cloud platforms like AWS, Azure, and Vercel**, I develop robust applications that integrate data pipelines, predictive models, and interactive user interfaces.
 
-With expertise in **Python, TensorFlow, PyTorch, LLMs, Next.js, MERN stack, and cloud platforms like AWS, Azure, and Vercel**, I specialize in **cutting-edge development, AI integration, and scalable cloud solutions**. My deep understanding of **UI/UX design, SEO, and growth hacking** empowers businesses and startups to excel in an increasingly AI-powered digital landscape.
+My core strengths lie in **machine learning**, **deep learning**, and **LLM integration**, using tools like **TensorFlow, PyTorch, and Hugging Face Transformers** to solve real-world problems through automation and intelligent decision-making. I’m equally proficient in deploying these models within full-stack environments, optimizing both performance and usability.
 
-Let's build innovative solutions together!
+I bring a practical, engineering-first mindset to every project—focusing on code quality, reproducibility, and clean architecture. Whether it’s backend APIs, real-time inference systems, or frontend dashboards, I build solutions that are as functional as they are forward-thinking.
+
+Let’s create the next generation of intelligent applications.
 
 ### *<div align="center">I pride myself on being a lazy but very fast learner.</div>*  
 
