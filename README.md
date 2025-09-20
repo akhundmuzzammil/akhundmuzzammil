@@ -32,10 +32,8 @@ Let’s create the next generation of intelligent applications.
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="50" /></a> 
 <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="50" /></a>
 <a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="50" /></a>
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" height="50" /></a>
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="50" /></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" height="50" /></a>
 </div>  
@@ -47,14 +45,11 @@ Let’s create the next generation of intelligent applications.
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" /></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="50" /></a>
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="50" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="50" /></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" /></a>
 </div>
 
 ### *<div align="center">DevOps & Cloud</div>*
@@ -65,9 +60,6 @@ Let’s create the next generation of intelligent applications.
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" /></a>
 <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" alt="Vercel" height="50" /></a>
-<a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://www.netlify.com/v3/img/components/logomark.png" alt="Netlify" height="50" /></a>
-<a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="50" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" /></a>
 </div>
 
